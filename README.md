@@ -1,4 +1,4 @@
-# EX-01 Java program to compare two numbers
+# EX-02 Java program to compare two numbers
 ## Aim:
 To write a java program to compare two numbers.
 
